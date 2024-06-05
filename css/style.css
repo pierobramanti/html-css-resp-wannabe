@@ -145,10 +145,12 @@ img {
 
     .lessons .col{
         width: 100%;
+        padding: 0 50px;
     }
 
     .steps .col{
         width: 100%;
+        padding: 0 50px;
     }
 
     .why-us .col-left{
@@ -157,5 +159,11 @@ img {
     
     .why-us .col-right{
         width: 100%;
+    }
+
+    
+    .why-us {
+        background-color: rgb(36, 35, 35);
+        
     }
 }
